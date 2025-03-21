@@ -38,7 +38,7 @@ public class Main {
         f1.division(f2);
         System.out.println("After divison: " + f1);
 
-        System.out.println("This Application's works END here.");
+        System.out.println("END HERE.");
         System.out.println("<------THANK YOU------>");
     }
 }
